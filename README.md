@@ -1,12 +1,4 @@
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<style>
-.font-family-page {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-</style>
-
-<br>
-<div class="font-family-page">
 JAVA provides excellent support and a rich set of libraries to parse, modify or inquire XML documents. This tutorial will explain various types of Java-based parsers with examples in a simple and intuitive way. We will also learn how to convert an object to/from XML using JAXB API in Java.<br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
